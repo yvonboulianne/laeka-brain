@@ -26,7 +26,7 @@ Toutes les incarnations Claude chez Omeada sont lancées via un wrapper bash qui
 **Ressources annexes :**
 - `~/.claude/hooks/role-dispatch.sh` — hook UserPromptSubmit (injection du pré-prompt à chaque message)
 - `~/.claude/hooks/session-briefing.sh` — hook SessionStart (briefing one-shot au démarrage)
-- `~/.claude/projects/-Users-agentx/memory/MEMORY.md` — mémoires persistantes user-wide, auto-chargées pour toutes les incarnations
+- `~/.claude/projects/-Users-YOUR_USERNAME/memory/MEMORY.md` — mémoires persistantes user-wide, auto-chargées pour toutes les incarnations
 
 ---
 
